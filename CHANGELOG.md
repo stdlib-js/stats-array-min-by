@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-01)
+## Unreleased (2025-06-05)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`9da485e`](https://github.com/stdlib-js/stdlib/commit/9da485ef4f27ad097efa6a99cc23fd338563fb24) - **refactor:** allow arrays of any dtype _(by Athan Reines)_
 -   [`5501d03`](https://github.com/stdlib-js/stdlib/commit/5501d03eff68bf9916ae5daff0ce8d8aa1b561b8) - **feat:** add `stats/array/min-by` [(#7155)](https://github.com/stdlib-js/stdlib/pull/7155) _(by Gururaj Gurram, stdlib-bot)_
 
 </details>
@@ -34,8 +35,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
 -   Gururaj Gurram
 
 </section>
