@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-05)
+## Unreleased (2025-06-07)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`18295bb`](https://github.com/stdlib-js/stdlib/commit/18295bbb486337220e55b4ba94f3f63c7a29e743) - **docs:** fix comment _(by Athan Reines)_
 -   [`eb4a2bd`](https://github.com/stdlib-js/stdlib/commit/eb4a2bd46a96c9d4315bf542d419996716b4ce8e) - **docs:** fix parameter type _(by Athan Reines)_
 -   [`b3ac7b2`](https://github.com/stdlib-js/stdlib/commit/b3ac7b2586d57556fe367ffb6a51aae824e6b0a3) - **docs:** parameter type _(by Athan Reines)_
 -   [`9da485e`](https://github.com/stdlib-js/stdlib/commit/9da485ef4f27ad097efa6a99cc23fd338563fb24) - **refactor:** allow arrays of any dtype _(by Athan Reines)_
