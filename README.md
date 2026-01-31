@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import minBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-array-min-by@esm/index.mjs';
+import minBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-array-min-by@v0.1.0-esm/index.mjs';
 ```
 
 #### minBy( x, clbk\[, thisArg] )
@@ -129,7 +129,7 @@ var cnt = context.count;
 <script type="module">
 
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@esm/index.mjs';
-import minBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-array-min-by@esm/index.mjs';
+import minBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-array-min-by@v0.1.0-esm/index.mjs';
 
 function accessor( v ) {
     return v * 2.0;
