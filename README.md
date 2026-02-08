@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import minBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-array-min-by@deno/mod.js';
+import minBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-array-min-by@v0.1.1-deno/mod.js';
 ```
 
 #### minBy( x, clbk\[, thisArg] )
@@ -124,7 +124,7 @@ var cnt = context.count;
 
 ```javascript
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@deno/mod.js';
-import minBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-array-min-by@deno/mod.js';
+import minBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-array-min-by@v0.1.1-deno/mod.js';
 
 function accessor( v ) {
     return v * 2.0;
